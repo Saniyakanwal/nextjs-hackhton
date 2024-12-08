@@ -3,7 +3,7 @@ import React from 'react'
 
 const Menu = () => {
   return (
-    <div  className='w-[1500px] h-[750px] bg-[#0D0D0DF2] text-white'>
+    <div  className='w-[1500px] h-[750px] bg-[#0D0D0DF2] text-white overflow-hidden'>
       <div className='w-[1320px] h-[656px] '>
         <p className='font-vibe text-[#FF9F0D] text-[32px] ml-[600px]'>Choose & pick</p>
         <h1 className='text-[#FF9F0D] font-bold text-5xl ml-[480px]'>Fr<span className='text-white'>om Our Menu</span></h1>

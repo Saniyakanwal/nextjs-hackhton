@@ -3,7 +3,7 @@ import React from 'react'
 
 const Testimonials = () => {
   return (
-    <div className='w-[1500px] h-[750px] bg-[#0D0D0DF2] text-white relative'>
+    <div className='w-[1500px] h-[750px] bg-[#0D0D0DF2] text-white relative overflow-hidden'>
       <div>
         <h3 className='font-vibe text-[32px] text-[#FF9F0D] ml-40'>Testimonials</h3>
         <h1 className='font-bold text-5xl ml-40'>What our client are saying</h1>

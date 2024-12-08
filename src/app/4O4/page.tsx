@@ -5,7 +5,7 @@ const Error = () => {
     return (
       <div>
         <Header/>
-       <div  className="bg-[url('/Images/faq.png')] w-full md:w-[1500px] h-[410px]">
+       <div  className="bg-[url('/Images/faq.png')] w-full md:w-[1500px] h-[410px] overflow-hidden">
         <div className=' w-full md:w-[230px] h-[104px]'>
           <h1 className='text-white font-bold  text-3xl lg:text-5xl  ml-20 lg:ml-[850px] pt-[200px] w-[230px]'>404 Error</h1>
           <div className=' ml-24 lg:ml-[900px] mt-3 w-[129px]'>

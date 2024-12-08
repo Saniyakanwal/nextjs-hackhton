@@ -4,7 +4,7 @@ import {FaCheck} from "react-icons/fa"
 
 const About = () => {
   return (
-    <div className=' w-full md:w-[1500px] h-[750px] bg-[#0D0D0DF2] text-white flex flex-col lg:flex-row items-center'>
+    <div className=' w-full md:w-[1500px] h-[750px] bg-[#0D0D0DF2] text-white flex flex-col lg:flex-row items-center overflow-hidden'>
       <div className=' w-full md:w-[562px] h-[562px] px-2 sm:px-8 lg:px-16 '>
         <p className='font-vibe text-[#FF9F0D] text-[32px]  ml-5 md:ml-20'>About us</p>
         <h1 className='font-bold text-5xl  ml-3 md:ml-20 mt-3 text-[#FF9F0D]  leading-[48px] lg:leading-[56px] '>We  

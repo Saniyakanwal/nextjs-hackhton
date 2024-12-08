@@ -3,7 +3,7 @@ import React from 'react'
 
 const Chef = () => {
   return (
-    <div className='w-[1500px] h-[750px] bg-[#0D0D0DF2] text-white relative'>
+    <div className='w-[1500px] h-[750px] bg-[#0D0D0DF2] text-white relative overflow-hidden'>
         <div>
             <h3 className='text-[#FF9F0D] font-vibe text-[32px] ml-[700px]'>Chefs</h3>
             <h1 className='text-[#FF9F0D] font-bold text-5xl ml-[580px]'>Me<span className='text-white'>et Our Chef</span></h1>

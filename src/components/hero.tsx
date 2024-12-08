@@ -4,7 +4,7 @@ import { FaFacebook, FaTwitter, FaPinterest } from "react-icons/fa";
 
 const Hero = () => {
   return (
-    <div className=' w-full md:w-[1500px] h-[750px] bg-[#0D0D0DF2]'>
+    <div className=' w-full md:w-[1500px] h-[750px] bg-[#0D0D0DF2] overflow-hidden'>
         <div className='relative mx-auto px-2 sm:px-8 lg:px-16 flex flex-col lg:flex-row'>
           {/* social icons */}
         <hr  className=' absolute text-white -rotate-[90deg] w-[158px] border -ml-6 '/>

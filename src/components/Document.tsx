@@ -3,7 +3,7 @@ import {FaPlay} from "react-icons/fa"
 
 const Document = () => {
   return (
-    <div className="w-[1500px] h-[550px] bg-[url('/Images/bg.png')] bg-no-repeat">
+    <div className="w-[1500px] h-[550px] bg-[url('/Images/bg.png')] bg-no-repeat overflow-hidden">
       <div>
         <h3 className='text-[#FF9F0D] font-vibe text-[32px] ml-[950px] pt-16'>Restaurant Active Process</h3>
         <h1 className='text-[#FF9F0D] font-bold text-5xl w-[705px] ml-[700px] text-right'>We <span className='text-white'> Document Every Food

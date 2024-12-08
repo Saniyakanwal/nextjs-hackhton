@@ -3,7 +3,7 @@ import React from 'react'
 
 const Progress = () => {
   return (
-    <div className='w-[1500px] h-[650px] bg-[#0D0D0DF2] text-white '>
+    <div className='w-[1500px] h-[650px] bg-[#0D0D0DF2] text-white overflow-hidden'>
       <div className='w-[1319px] h-[247px] flex ml-28 pt-32 gap-36'>
         <div className='w-[218px] h-[247px] '>
             <Image src="/Images/logo1.png" alt='1'

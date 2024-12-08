@@ -4,7 +4,7 @@ import { FaSearch, FaShoppingBag } from 'react-icons/fa'
 
 const Header = () => {
   return (
-    <div className=' w-full md:w-[1500px] h-[250px] bg-[#0D0D0DF2]'>
+    <div className=' w-full md:w-[1500px] h-[250px] bg-[#0D0D0DF2] overflow-hidden'>
     <div className='max-w-[1320px] mx-auto h-[87px]'>
         <h1 className='font-bold text-2xl  text-center md:ml-[100px] pt-7 text-[#FF9F0D]'>Food <span className='text-[#ffffff]'>tuck </span></h1>
             {/* navbar */}

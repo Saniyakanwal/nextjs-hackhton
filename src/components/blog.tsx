@@ -4,7 +4,7 @@ import { FaThumbsUp, FaCommentDots, FaShareAlt } from 'react-icons/fa'
 
 const Blog = () => {
   return (
-    <div className='w-[1500px] h-[950px] bg-[#0D0D0DF2]'>
+    <div className='w-[1500px] h-[950px] bg-[#0D0D0DF2] overflow-hidden'>
         <div>
             <h3 className='text-[#FF9F0D] font-vibe text-[32px] pt-14 ml-[650px]'>Blog Post</h3>
             <h1 className='text-[#FF9F0D] font-bold text-5xl ml-[500px]'>La<span className='text-white'>test News & Blog</span></h1>

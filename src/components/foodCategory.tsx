@@ -3,7 +3,7 @@ import React from 'react'
 
 const FoodCategory = () => {
   return (
-    <div className=" w-full md:w-[1500px] h-[1300px] bg-[#0D0D0DF2] text-white">
+    <div className=" w-full md:w-[1500px] h-[1300px] bg-[#0D0D0DF2] text-white overflow-hidden">
       <h3 className='text-[#FF9F0D] font-vibe text-[32px] ml-[600px]'> Food Category</h3>
       <h1 className='text-[#FF9F0D] font-bold text-5xl ml-[450px]'> Ch<span className='text-white'>oose Food Iteam</span></h1>
       <div className='ml-[1050px] '>
